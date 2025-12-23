@@ -1,0 +1,68 @@
+{
+  "": {
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/master.swiftdeps"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/Tests/ActivityManagerTests.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/ActivityManagerTests.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/ActivityManagerTests.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/ActivityManagerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/ActivityManagerTests.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/ActivityManagerTests.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/Tests/PetAppNotificationTests.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetAppNotificationTests.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetAppNotificationTests.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetAppNotificationTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetAppNotificationTests.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetAppNotificationTests.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/Tests/PetEntityTests.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetEntityTests.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetEntityTests.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetEntityTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetEntityTests.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetEntityTests.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/Tests/PetRendererColorTests.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetRendererColorTests.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetRendererColorTests.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetRendererColorTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetRendererColorTests.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetRendererColorTests.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/Tests/PetViewTests.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetViewTests.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetViewTests.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetViewTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetViewTests.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetViewTests.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/Tests/PetWindowControllerMovementTests.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetWindowControllerMovementTests.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetWindowControllerMovementTests.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetWindowControllerMovementTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetWindowControllerMovementTests.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetWindowControllerMovementTests.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/Tests/ReminderManagerTests.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/ReminderManagerTests.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/ReminderManagerTests.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/ReminderManagerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/ReminderManagerTests.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/ReminderManagerTests.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/Tests/SettingsManagerTests.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/SettingsManagerTests.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/SettingsManagerTests.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/SettingsManagerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/SettingsManagerTests.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/SettingsManagerTests.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/Tests/WindowLevelTests.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/WindowLevelTests.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/WindowLevelTests.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/WindowLevelTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/WindowLevelTests.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/WindowLevelTests.dia"
+  }
+}

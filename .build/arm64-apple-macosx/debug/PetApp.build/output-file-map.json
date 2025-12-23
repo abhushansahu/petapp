@@ -1,0 +1,138 @@
+{
+  "": {
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/master.swiftdeps"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Controllers/ActivityManager.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/ActivityManager.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/ActivityManager.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/ActivityManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/ActivityManager.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/ActivityManager.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Controllers/InteractionHandler.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/InteractionHandler.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/InteractionHandler.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/InteractionHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/InteractionHandler.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/InteractionHandler.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Controllers/PetWindowController.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetWindowController.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetWindowController.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetWindowController~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetWindowController.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetWindowController.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Controllers/VideoDetection.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/VideoDetection.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/VideoDetection.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/VideoDetection~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/VideoDetection.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/VideoDetection.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Extensions/NSWindowLevel+DesktopIcon.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/NSWindowLevel+DesktopIcon.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/NSWindowLevel+DesktopIcon.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/NSWindowLevel+DesktopIcon~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/NSWindowLevel+DesktopIcon.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/NSWindowLevel+DesktopIcon.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetEntity.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetEntity.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetEntity.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetEntity~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetEntity.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetEntity.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetSettings.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetSettings.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetSettings.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetSettings~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetSettings.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetSettings.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetState.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetState.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetState.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetState~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetState.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetState.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/Reminder.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/Reminder.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/Reminder.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/Reminder~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/Reminder.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/Reminder.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/PetApp.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetApp.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetApp.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetApp.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetApp.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/AppMonitor.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/AppMonitor.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/AppMonitor.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/AppMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/AppMonitor.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/AppMonitor.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/AudioAnalyzer.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/AudioAnalyzer.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/AudioAnalyzer.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/AudioAnalyzer~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/AudioAnalyzer.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/AudioAnalyzer.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/ReminderManager.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/ReminderManager.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/ReminderManager.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/ReminderManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/ReminderManager.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/ReminderManager.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/SettingsManager.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/SettingsManager.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/SettingsManager.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/SettingsManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/SettingsManager.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/SettingsManager.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/UI/MenuBarController.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/MenuBarController.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/MenuBarController.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/MenuBarController~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/MenuBarController.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/MenuBarController.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/UI/PreferencesView.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PreferencesView.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PreferencesView.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PreferencesView~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PreferencesView.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PreferencesView.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/UI/PreferencesWindow.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PreferencesWindow.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PreferencesWindow.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PreferencesWindow~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PreferencesWindow.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PreferencesWindow.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Views/PetRenderer.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetRenderer.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetRenderer.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetRenderer~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetRenderer.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetRenderer.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Views/PetView.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetView.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetView.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetView~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetView.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetView.dia"
+  }
+}

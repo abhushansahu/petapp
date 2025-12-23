@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppPackageTests.build/master.swiftdeps"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppPackageTests.derived/runner.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppPackageTests.build/runner.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppPackageTests.build/runner.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppPackageTests.build/runner.dia"
+  }
+}
