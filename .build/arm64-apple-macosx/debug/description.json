@@ -52,6 +52,14 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetMemory.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetPersonality.swift"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetSettings.swift"
         },
         {
@@ -73,6 +81,14 @@
         {
           "kind" : "file",
           "name" : "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/AudioAnalyzer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/MemoryManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/PersonalityEngine.swift"
         },
         {
           "kind" : "file",
@@ -121,12 +137,16 @@
         "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/VideoDetection.swift.o",
         "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/NSWindowLevel+DesktopIcon.swift.o",
         "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetEntity.swift.o",
+        "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetMemory.swift.o",
+        "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetPersonality.swift.o",
         "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetSettings.swift.o",
         "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetState.swift.o",
         "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/Reminder.swift.o",
         "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetApp.swift.o",
         "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/AppMonitor.swift.o",
         "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/AudioAnalyzer.swift.o",
+        "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/MemoryManager.swift.o",
+        "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PersonalityEngine.swift.o",
         "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/ReminderManager.swift.o",
         "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/SettingsManager.swift.o",
         "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/MenuBarController.swift.o",
@@ -206,6 +226,14 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetMemory.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetPersonality.swift.o"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetSettings.swift.o"
         },
         {
@@ -227,6 +255,14 @@
         {
           "kind" : "file",
           "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/AudioAnalyzer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/MemoryManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PersonalityEngine.swift.o"
         },
         {
           "kind" : "file",
@@ -269,12 +305,16 @@
         "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Controllers/VideoDetection.swift",
         "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Extensions/NSWindowLevel+DesktopIcon.swift",
         "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetEntity.swift",
+        "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetMemory.swift",
+        "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetPersonality.swift",
         "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetSettings.swift",
         "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetState.swift",
         "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/Reminder.swift",
         "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/PetApp.swift",
         "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/AppMonitor.swift",
         "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/AudioAnalyzer.swift",
+        "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/MemoryManager.swift",
+        "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/PersonalityEngine.swift",
         "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/ReminderManager.swift",
         "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/SettingsManager.swift",
         "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/UI/MenuBarController.swift",
@@ -386,6 +426,18 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/Tests/EnhancedActivityManagerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/Tests/MemoryManagerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/Tests/PersonalityEngineTests.swift"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/abhoo/Documents/repo/dev/mac-app/Tests/PetAppNotificationTests.swift"
         },
         {
@@ -434,6 +486,9 @@
       "moduleOutputPath" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/Modules/PetAppTests.swiftmodule",
       "objects" : [
         "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/ActivityManagerTests.swift.o",
+        "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/EnhancedActivityManagerTests.swift.o",
+        "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/MemoryManagerTests.swift.o",
+        "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PersonalityEngineTests.swift.o",
         "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetAppNotificationTests.swift.o",
         "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetEntityTests.swift.o",
         "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetRendererColorTests.swift.o",
@@ -493,6 +548,18 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/EnhancedActivityManagerTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/MemoryManagerTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PersonalityEngineTests.swift.o"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetAppNotificationTests.swift.o"
         },
         {
@@ -531,6 +598,9 @@
       "prepareForIndexing" : false,
       "sources" : [
         "/Users/abhoo/Documents/repo/dev/mac-app/Tests/ActivityManagerTests.swift",
+        "/Users/abhoo/Documents/repo/dev/mac-app/Tests/EnhancedActivityManagerTests.swift",
+        "/Users/abhoo/Documents/repo/dev/mac-app/Tests/MemoryManagerTests.swift",
+        "/Users/abhoo/Documents/repo/dev/mac-app/Tests/PersonalityEngineTests.swift",
         "/Users/abhoo/Documents/repo/dev/mac-app/Tests/PetAppNotificationTests.swift",
         "/Users/abhoo/Documents/repo/dev/mac-app/Tests/PetEntityTests.swift",
         "/Users/abhoo/Documents/repo/dev/mac-app/Tests/PetRendererColorTests.swift",
@@ -561,12 +631,16 @@
       "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Controllers/VideoDetection.swift",
       "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Extensions/NSWindowLevel+DesktopIcon.swift",
       "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetEntity.swift",
+      "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetMemory.swift",
+      "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetPersonality.swift",
       "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetSettings.swift",
       "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetState.swift",
       "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/Reminder.swift",
       "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/PetApp.swift",
       "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/AppMonitor.swift",
       "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/AudioAnalyzer.swift",
+      "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/MemoryManager.swift",
+      "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/PersonalityEngine.swift",
       "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/ReminderManager.swift",
       "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/SettingsManager.swift",
       "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/UI/MenuBarController.swift",
@@ -682,6 +756,9 @@
       "mac_app",
       "-c",
       "/Users/abhoo/Documents/repo/dev/mac-app/Tests/ActivityManagerTests.swift",
+      "/Users/abhoo/Documents/repo/dev/mac-app/Tests/EnhancedActivityManagerTests.swift",
+      "/Users/abhoo/Documents/repo/dev/mac-app/Tests/MemoryManagerTests.swift",
+      "/Users/abhoo/Documents/repo/dev/mac-app/Tests/PersonalityEngineTests.swift",
       "/Users/abhoo/Documents/repo/dev/mac-app/Tests/PetAppNotificationTests.swift",
       "/Users/abhoo/Documents/repo/dev/mac-app/Tests/PetEntityTests.swift",
       "/Users/abhoo/Documents/repo/dev/mac-app/Tests/PetRendererColorTests.swift",
@@ -817,6 +894,14 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetMemory.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetPersonality.swift"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetSettings.swift"
         },
         {
@@ -838,6 +923,14 @@
         {
           "kind" : "file",
           "name" : "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/AudioAnalyzer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/MemoryManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/PersonalityEngine.swift"
         },
         {
           "kind" : "file",
@@ -895,6 +988,10 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/MemoryManager.swift.o"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/MenuBarController.swift.o"
         },
         {
@@ -903,11 +1000,23 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PersonalityEngine.swift.o"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetApp.swift.o"
         },
         {
           "kind" : "file",
           "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetEntity.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetMemory.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetPersonality.swift.o"
         },
         {
           "kind" : "file",
@@ -995,6 +1104,10 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/MemoryManager.swift.o"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/MenuBarController.swift.o"
         },
         {
@@ -1003,11 +1116,23 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PersonalityEngine.swift.o"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetApp.swift.o"
         },
         {
           "kind" : "file",
           "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetEntity.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetMemory.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetPersonality.swift.o"
         },
         {
           "kind" : "file",
@@ -1063,6 +1188,18 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/EnhancedActivityManagerTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/MemoryManagerTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PersonalityEngineTests.swift.o"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetAppTests.build/PetAppNotificationTests.swift.o"
         },
         {
@@ -1106,6 +1243,18 @@
         {
           "kind" : "file",
           "name" : "/Users/abhoo/Documents/repo/dev/mac-app/Tests/ActivityManagerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/Tests/EnhancedActivityManagerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/Tests/MemoryManagerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/abhoo/Documents/repo/dev/mac-app/Tests/PersonalityEngineTests.swift"
         },
         {
           "kind" : "file",

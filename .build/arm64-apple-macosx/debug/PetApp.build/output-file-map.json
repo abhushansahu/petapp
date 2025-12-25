@@ -44,6 +44,20 @@
     "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetEntity.swiftdeps",
     "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetEntity.dia"
   },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetMemory.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetMemory.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetMemory.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetMemory~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetMemory.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetMemory.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetPersonality.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetPersonality.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetPersonality.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetPersonality~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetPersonality.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetPersonality.dia"
+  },
   "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetSettings.swift": {
     "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetSettings.d",
     "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PetSettings.swift.o",
@@ -85,6 +99,20 @@
     "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/AudioAnalyzer~partial.swiftmodule",
     "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/AudioAnalyzer.swiftdeps",
     "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/AudioAnalyzer.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/MemoryManager.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/MemoryManager.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/MemoryManager.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/MemoryManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/MemoryManager.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/MemoryManager.dia"
+  },
+  "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/PersonalityEngine.swift": {
+    "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PersonalityEngine.d",
+    "object": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PersonalityEngine.swift.o",
+    "swiftmodule": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PersonalityEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PersonalityEngine.swiftdeps",
+    "diagnostics": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/PersonalityEngine.dia"
   },
   "/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/ReminderManager.swift": {
     "dependencies": "/Users/abhoo/Documents/repo/dev/mac-app/.build/arm64-apple-macosx/debug/PetApp.build/ReminderManager.d",

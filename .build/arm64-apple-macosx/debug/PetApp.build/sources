@@ -4,12 +4,16 @@
 /Users/abhoo/Documents/repo/dev/mac-app/PetApp/Controllers/VideoDetection.swift
 /Users/abhoo/Documents/repo/dev/mac-app/PetApp/Extensions/NSWindowLevel+DesktopIcon.swift
 /Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetEntity.swift
+/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetMemory.swift
+/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetPersonality.swift
 /Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetSettings.swift
 /Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/PetState.swift
 /Users/abhoo/Documents/repo/dev/mac-app/PetApp/Models/Reminder.swift
 /Users/abhoo/Documents/repo/dev/mac-app/PetApp/PetApp.swift
 /Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/AppMonitor.swift
 /Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/AudioAnalyzer.swift
+/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/MemoryManager.swift
+/Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/PersonalityEngine.swift
 /Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/ReminderManager.swift
 /Users/abhoo/Documents/repo/dev/mac-app/PetApp/Services/SettingsManager.swift
 /Users/abhoo/Documents/repo/dev/mac-app/PetApp/UI/MenuBarController.swift
